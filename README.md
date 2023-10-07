@@ -7,7 +7,7 @@
   <h2>💻 Projects:</h2>
 
 - <b>Scientifc Calculator GUI</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Source Code](https://github.com/BrentonGibson/ScientificCalculatorGUI)
 - <b>Notepad GUI</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Snake Game</b>
