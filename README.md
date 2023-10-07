@@ -9,7 +9,7 @@
 - <b>Scientifc Calculator GUI</b>
   - [Source Code](https://github.com/BrentonGibson/ScientificCalculatorGUI)
 - <b>Notepad GUI</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Source Code](https://github.com/BrentonGibson/NotepadGUI)
 - <b>Snake Game</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
