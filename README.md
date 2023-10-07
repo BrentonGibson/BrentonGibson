@@ -9,7 +9,7 @@
 - <b>Scientifc Calculator GUI</b>
   - [Source Code](https://github.com/BrentonGibson/ScientificCalculatorGUI/blob/master/ScientificCalculatorGUI/src/Calculator.java)
 - <b>Notepad GUI</b>
-  - [Source Code](https://github.com/BrentonGibson/NotepadGUI)
+  - [Source Code](https://github.com/BrentonGibson/NotepadGUI/blob/main/Notepad.py)
 - <b>Snake Game</b>
   - [Source Code](https://github.com/BrentonGibson/SnakeGame)
 
