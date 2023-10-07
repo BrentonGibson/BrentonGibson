@@ -11,7 +11,7 @@
 - <b>Notepad GUI</b>
   - [Source Code](https://github.com/BrentonGibson/NotepadGUI)
 - <b>Snake Game</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Source Code](https://github.com/BrentonGibson/SnakeGame)
 
 <h2> 🤳🏽 Connect with me:</h2>
 
