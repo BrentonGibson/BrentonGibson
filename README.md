@@ -7,7 +7,7 @@
   <h2>💻 Projects:</h2>
 
 - <b>Scientifc Calculator GUI</b>
-  - [Source Code](https://github.com/BrentonGibson/ScientificCalculatorGUI)
+  - [Source Code](https://github.com/BrentonGibson/ScientificCalculatorGUI/blob/master/ScientificCalculatorGUI/src/Calculator.java)
 - <b>Notepad GUI</b>
   - [Source Code](https://github.com/BrentonGibson/NotepadGUI)
 - <b>Snake Game</b>
