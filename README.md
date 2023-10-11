@@ -3,7 +3,7 @@
 
   - Languages: Java, Python, C/C++, JavaScript
 
-  - Developer Tools: Git, VS Code, Visual Studio, IntelliJ, Eclipse, Android Studio, GUI
+  - Developer Tools: Google Cloud, Relational Databases, VS Code, Git, Visual Studio, IntelliJ, Eclipse, Android Studio, GUI
   <h2>💻 Projects:</h2>
 
 - <b>Scientifc Calculator GUI</b>
