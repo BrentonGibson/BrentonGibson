@@ -12,6 +12,12 @@
   - [Source Code](https://github.com/BrentonGibson/NotepadGUI/blob/main/Notepad.py)
 - <b>Snake Game</b>
   - [Source Code](https://github.com/BrentonGibson/SnakeGame/blob/main/SnakeGame.Py)
+- <b>BMI Calculator</b>
+  - [Source Code](https://github.com/BrentonGibson/BMICalculator/blob/main/BMICalculator.py)
+- <b>TicTacToe</b>
+  - [Source Code](https://github.com/BrentonGibson/TicTacToe/blob/master/TicTacToe/src/TicTacToe.java)
+
+
 
 <h2> 🤳🏽 Connect with me:</h2>
 
