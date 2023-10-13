@@ -1,7 +1,7 @@
 <h1>What's up, I'm Brenton!
 <h2>✏️ Skills & Technical Tools</h2>
 
-  - Languages: Java, Python, C/C++, JavaScript
+  - Languages: Java, Python, C/C++, JavaScript, HTML/CSS
 
   - Developer Tools: Google Cloud, Relational Databases, VS Code, Git, Visual Studio, IntelliJ, Eclipse, Android Studio, GUI
   <h2>💻 Projects:</h2>
@@ -16,6 +16,10 @@
   - [Source Code](https://github.com/BrentonGibson/BMICalculator/blob/main/BMICalculator.py)
 - <b>TicTacToe</b>
   - [Source Code](https://github.com/BrentonGibson/TicTacToe/blob/master/TicTacToe/src/TicTacToe.java)
+- <b>Kobe Bryant Tribute Page</b>
+  - [Source Code](https://github.com/BrentonGibson/KobeBryantTributePage/blob/main/index.html)
+
+
 
 
 
