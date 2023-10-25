@@ -18,8 +18,8 @@
   - [Source Code](https://github.com/BrentonGibson/TicTacToe/blob/master/TicTacToe/src/TicTacToe.java)
 - <b>Kobe Bryant Tribute Page</b>
   - [Source Code](https://github.com/BrentonGibson/KobeBryantTributePage/blob/main/index.html)
-
-
+- <b>Digital Clock</b>
+  - [Source Code](https://github.com/BrentonGibson/DigitalClock/blob/main/DigitalClock.cpp)
 
 
 
